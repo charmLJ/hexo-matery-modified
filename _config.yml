@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 韦阳的博客
+title: MU的客栈
 subtitle: 算法码上来
-description: 华东师范大学 | 计算机科学与技术 | 自然语言处理
-keywords: "ECNU NLP DeepLearning AntNLP 韦阳 godweiyang WeiYang 自然语言处理 深度学习 算法码上来"
-author: 韦阳
+description: 软件工程 | 自然语言处理
+keywords: "ECNU NLP DeepLearning AntNLP MLJ godweiyang WeiYang 自然语言处理 深度学习 算法码上来"
+author: MLJ
 language: zh-CN
 timezone:
 
